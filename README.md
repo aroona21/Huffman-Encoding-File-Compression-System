@@ -72,7 +72,7 @@ Huffman-Encoding-Project/
 * huffman_report.txt – Contains the Huffman codes and character frequencies.
 
 
-** Documentation**
+**Documentation**
 
 * DSA Project Report.pdf – Complete project report.
 * Flowchart.png – Flowchart illustrating the algorithm.
