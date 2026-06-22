@@ -1,0 +1,37 @@
+
+--- Huffman Binary Tree Structure (Sideways) ---
+Note: Right branch = '1' path, Left branch = '0' path
+        |-- [o, 4]
+    |-- (6)
+        |-- [n, 2]
+(10)
+        |-- [r, 2]
+    |-- (4)
+        |-- [a, 2]
+--------------------------------------------------------
+
+--- Character Frequencies (Sorted) ---
+Char | ASCII | Frequency
+-----------------------------------
+  o  | 111   | 4
+  a  | 97   | 2
+  r  | 114   | 2
+  n  | 110   | 2
+-----------------------------------
+
+--- Huffman Codes (The Dictionary) ---
+Char | Code
+-----------------------------------
+  a  | 00
+  r  | 01
+  n  | 10
+  o  | 11
+-----------------------------------
+
+--- Compression Statistics (Task 8) ---
+Original Character Count: 10 chars
+Original File Size (8-bit ASCII): 80 bits
+Compressed Bit Stream Length: 20 bits
+Estimated Compressed Size (Bytes): 3 bytes
+Compression Ratio (Reduction): 75.00 %
+----------------------------------
