@@ -1,4 +1,4 @@
-Huffman Encoding Project
+**Huffman Encoding Project**
 
 Overview
 
