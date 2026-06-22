@@ -45,10 +45,6 @@ Huffman-Encoding-Project/
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/Huffman-Encoding-Project.git
-   ```
-
 2. Open the project in your preferred C++ IDE or compiler.
 
 3. Compile the source files:
