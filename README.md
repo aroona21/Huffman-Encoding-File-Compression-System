@@ -1,10 +1,10 @@
-**Huffman Encoding Project**
+****Huffman Encoding Project****
 
-Overview
+**Overview**
 
 This project implements the Huffman Encoding Algorithm in C++ as part of a Data Structures and Algorithms (DSA) course. Huffman Encoding is a lossless data compression technique that assigns variable-length binary codes to characters based on their frequencies, reducing the overall size of the data.
 
-Features
+**Features**
 
 * Builds a Huffman Tree from character frequencies.
 * Generates Huffman codes for each character.
@@ -12,7 +12,7 @@ Features
 * Decompresses the compressed data back to the original text.
 * Generates a report containing character frequencies and Huffman codes.
 
-Project Structure
+**Project Structure**
 
 ```
 Huffman-Encoding-Project/
@@ -31,7 +31,7 @@ Huffman-Encoding-Project/
     └── huffman_report.txt
 ```
 
-Technologies Used
+**Technologies Used**
 
 * C++
 * Object-Oriented Programming (OOP)
@@ -41,7 +41,7 @@ Technologies Used
   * Priority Queue (Min Heap)
   * Hash Map
 
-How to Run
+**How to Run**
 
 1. Clone the repository:
 
@@ -65,20 +65,20 @@ How to Run
 
 5. Enter the required input or modify `input.txt` as needed.
 
-Output Files
+**Output Files**
 
 * compressed_bits.txt – Stores the compressed binary data.
 * output_decompressed.txt – Stores the decompressed text.
 * huffman_report.txt – Contains the Huffman codes and character frequencies.
 
 
- Documentation
+** Documentation**
 
 * DSA Project Report.pdf – Complete project report.
 * Flowchart.png – Flowchart illustrating the algorithm.
 
 
-Learning Outcomes
+**Learning Outcomes**
 
 This project demonstrates:
 
@@ -89,7 +89,7 @@ This project demonstrates:
 * Binary Tree Traversal
 * Data Compression Techniques
 
-Author:
+**Author:**
 Aroona Noor
 
 BS Computer Science
